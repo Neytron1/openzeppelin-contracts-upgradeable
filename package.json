@@ -51,7 +51,7 @@
   "homepage": "https://openzeppelin.com/contracts/",
   "devDependencies": {
     "@changesets/changelog-github": "^0.5.0",
-    "@changesets/cli": "^2.26.0",
+    "@changesets/cli": "^2.31.1",
     "@changesets/pre": "^2.0.0",
     "@changesets/read": "^0.6.0",
     "@nomicfoundation/hardhat-chai-matchers": "^2.0.6",
@@ -64,12 +64,12 @@
     "chai": "^4.2.0",
     "eslint": "^8.30.0",
     "eslint-config-prettier": "^9.0.0",
-    "ethers": "^6.7.1",
-    "glob": "^10.3.5",
+    "ethers": "^6.17.0",
+    "glob": "^13.0.6",
     "graphlib": "^2.1.8",
     "hardhat": "^2.22.2",
     "hardhat-exposed": "^0.3.15",
-    "hardhat-gas-reporter": "^2.0.0",
+    "hardhat-gas-reporter": "^2.3.0",
     "hardhat-ignore-warnings": "^0.2.11",
     "lodash.startcase": "^4.4.0",
     "micromatch": "^4.0.2",
@@ -81,9 +81,9 @@
     "solhint": "^4.0.0",
     "solhint-plugin-openzeppelin": "file:scripts/solhint-custom",
     "solidity-ast": "^0.4.50",
-    "solidity-coverage": "^0.8.5",
+    "solidity-coverage": "^0.8.17",
     "solidity-docgen": "^0.6.0-beta.29",
-    "undici": "^6.11.1",
+    "undici": "^6.28.1",
     "yargs": "^17.0.0"
   }
 }
